@@ -8,7 +8,7 @@ export function AboutSection() {
           {/* Image */}
           <div className="relative aspect-square lg:aspect-[4/5] overflow-hidden order-2 lg:order-1">
             <Image
-              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/DoisLados-UDK5j3ofMbt16ajGmVBcHXmHPqm9GI.png"
+              src="./DoisLados.png"
               alt="Moletom Ajo.Veste - Tu, Porém Vai Até o Fim"
               fill
               className="object-cover"

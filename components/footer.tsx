@@ -47,7 +47,7 @@ export function Footer() {
             {/* Logo */}
             <div className="flex items-center gap-3">
               <Image
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo-05kypkg7Ycbr5OxDSRoBzi2vzzjRI2.jpg"
+                src="./LogoAjo.png"
                 alt="Ajô Logo"
                 width={40}
                 height={40}
